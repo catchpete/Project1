@@ -1,0 +1,21 @@
+body{
+    margin-left: 20px;
+    background-color: #1e1e1e;
+    color: lightgray;
+  }
+  .content{
+    margin-left: 30px;
+    font-size: 23px;
+    width :800px;
+    text-align: justify;
+  }
+  .content a,
+  .content a:link,
+  .content a:visited
+  {
+    color: lightgray;
+  }
+  .div1 {
+    width: 300px;
+    height: 100px;  
+  }
